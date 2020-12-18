@@ -15,9 +15,9 @@ banner = Fore.YELLOW + Style.BRIGHT + """
 print(banner)
 
 token = input("[Eblan] Введите ваш токен: ")
-
+1beab32365331ef6e39f284d1f5ecf01
 if token == "":
- print("[❌] Введите токен!")
+ print("[❌] Введите токен!")1beab32365331ef6e39f284d1f5ecf01
  quit()
 
 session = requests.Session()
